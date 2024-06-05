@@ -1,0 +1,136 @@
+#root {
+    position: absolute;
+    width: 100%;
+}
+head {
+    background-color: #040D12;
+}
+
+header{
+    width: 100%;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.class-form h1{
+    text-align: center;
+    color: #040D12;
+}
+
+.class-form {
+    position: relative;
+    font-family: 'Inclusive Sans', sans-serif;
+    top: 30px;
+    width: 60%;
+    margin-left: 20%;
+    background-color: #D2E9E9;
+    border-radius: 10px;
+}
+
+.inner-form {
+    margin-left: 5%;
+    width: 90%;
+}
+
+
+input {
+    border: 1px solid #93B1A6;
+    width: 90%;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-bottom: 10px;
+    background-color: #183D3D;
+}
+
+textarea {
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid #93B1A6;
+    padding: 10px 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-bottom: 10px;
+    resize: none;
+    background-color: #183D3D;
+}
+
+.resume {
+    display: flex;
+    height: auto;
+    gap: 15px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.resume-light {
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 65%;
+}
+
+.resume-dark {
+    background-color: #708090;
+    width: 35%;
+    height: 1122px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 30px;
+}
+
+.resume-light h1 {
+    color: #708090;
+    font-family: 'Russo One', sans-serif;
+}
+
+hr {
+    height: 1.5px;
+    background-color: #708090;
+}
+
+.resume-light h2 {
+    color: #708090;
+    font-family: 'Russo One', sans-serif;
+    margin-bottom: 0;
+}
+
+.resume-dark h2 {
+    font-family: 'Russo One', sans-serif;
+    margin-bottom: 0;
+}
+
+.first {
+    margin-top: 40px;
+}
+
+.no-margin {
+    margin-top: 0;
+}
+
+.resume h3 {
+    font-size: 16px;
+}
+
+.work {
+    margin-top: 16px;
+}
+
+.resume p {
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+.resume li {
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+
+.resume-dark ul {
+    padding-left: 10px;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.img {
+    margin-right: 15px;
+}
