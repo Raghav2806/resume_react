@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/resume_react/static/css/main.d5289b2f.css",
+    "main.js": "/resume_react/static/js/main.5943b8cc.js",
+    "index.html": "/resume_react/index.html",
+    "static/media/telephone-fill.svg": "/resume_react/static/media/telephone-fill.92e390f92427328323834e1b8ab89138.svg",
+    "static/media/envelope-fill.svg": "/resume_react/static/media/envelope-fill.7828ea972566d7acd02102084ef56f46.svg",
+    "static/media/geo-alt-fill.svg": "/resume_react/static/media/geo-alt-fill.94c6a40d70da7b868b3ef5f3020a41d5.svg",
+    "main.d5289b2f.css.map": "/resume_react/static/css/main.d5289b2f.css.map",
+    "main.5943b8cc.js.map": "/resume_react/static/js/main.5943b8cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.5943b8cc.js"
+  ]
+}
